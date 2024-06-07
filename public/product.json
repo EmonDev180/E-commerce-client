@@ -1,0 +1,419 @@
+[
+    {
+        "_id": "1",
+        "title": "Stainless Steel Water Bottle",
+        "category": "Home & Kitchen",
+        "Price": 15.99,
+        "image": "https://i.ibb.co/GWYXDXM/closeup-shot-metal-water-bottle-isolated-181624-8490.jpg"
+    },
+    {
+        "_id": "2",
+        "title": "Organic Green Tea",
+        "category": "Groceries",
+        "Price": 9.99,
+        "image": "https://i.ibb.co/YWqNcX1/antique-traditional-teapot-with-teacups-dried-herbal-tea-concrete-background-23-2148186320.jpg"
+    },
+    {
+        "_id": "3",
+        "title": "Stainless Steel Water Bottle",
+        "category": "Home & Kitchen",
+        "Price": 15.99,
+        "image": "https://i.ibb.co/YWqNcX1/antique-traditional-teapot-with-teacups-dried-herbal-tea-concrete-background-23-2148186320.jpg"
+    },
+    {
+        "_id": "4",
+        "title": "Organic Green Tea",
+        "category": "Groceries",
+        "Price": 9.99,
+        "image": "https://i.ibb.co/YWqNcX1/antique-traditional-teapot-with-teacups-dried-herbal-tea-concrete-background-23-2148186320.jpg"
+    },
+    {
+        "_id": "5",
+        "title": "Noise Cancelling Earbuds",
+        "category": "Electronics",
+        "Price": 49.99,
+        "image": "https://i.ibb.co/MVfMpCk/hearing-aids-case-flat-lay-23-2149705944.jpg"
+    },
+    {
+        "_id": "6",
+        "title": "Smartphone with 128GB Storage",
+        "category": "Electronics",
+        "Price": 599.99,
+        "image": "https://i.ibb.co/Yh5d7ps/blue-cell-phone-connected-usb-cable-type-charging-58702-4458.jpg"
+    },
+    {
+        "_id": "7",
+        "title": "Ergonomic Office Chair",
+        "category": "Furniture",
+        "Price": 89.99,
+        "image": "https://i.ibb.co/2ky46TX/office-furniture-664434-288.jpg"
+    },
+    {
+        "_id": "8",
+        "title": "Yoga Mat",
+        "category": "Outdoors",
+        "Price": 25.99,
+        "image": "https://i.ibb.co/4Wfdpxz/mat-fitness-isolated-white-392895-162371.jpg"
+    },
+    {
+        "_id": "9",
+        "title": "Portable Power Bank",
+        "category": "Electronics",
+        "Price": 19.99,
+        "image": "https://i.ibb.co/xMYBncM/case-isolated-white-background-1014317-1680.jpg"
+    },
+    {
+        "_id": "10",
+        "title": "Electric Toothbrush",
+        "category": "Personal Care",
+        "Price": 39.99,
+        "image": "https://i.ibb.co/d21jfR5/new-colorful-toothbrushes-glass-background-488220-19098.jpg"
+    },
+    {
+        "_id": "11",
+        "title": "Wireless Mouse",
+        "category": "Computers & Accessories",
+        "Price": 14.99,
+        "image": "https://i.ibb.co/dJh35zf/purple-computer-mouse-1260-11.jpg"
+    },
+    {
+        "_id": "12",
+        "title": "Gaming Laptop",
+        "category": "Electronics",
+        "Price": 1099.99,
+        "image": "https://i.ibb.co/4dpFxrn/workplace-with-laptop-stand-near-eyeglasses-23-2148040478.jpg"
+    },
+    {
+        "_id": "13",
+        "title": "Men's unning Shoes",
+        "category": "Clothing",
+        "Price": 59.99,
+        "image": "https://i.ibb.co/85YBtJd/beautiful-elegance-luxury-leather-brown-men-shoes-1203-7666.jpg"
+    },
+    {
+        "_id": "14",
+        "title": "Women's Leather Handbag",
+        "category": "Clothing",
+        "Price": 79.99,
+        "image": "https://i.ibb.co/F8G8BNP/beautiful-elegance-luxury-fashion-women-bag-1203-7665.jpg"
+    },
+    {
+        "_id": "15",
+        "title": "Digital Alarm Clock",
+        "category": "Home & Kitchen",
+        "Price": 24.99,
+        "image": "https://i.ibb.co/9vNrGKK/blue-alarm-clock-1112-80.jpg"
+    },
+    {
+        "_id": "16",
+        "title": "Electric Kettle",
+        "category": "Home & Kitchen",
+        "Price": 34.99,
+        "image": "https://i.ibb.co/g3xSPQz/kettle-cup-wall-background-1339-7170.jpg"
+    },
+    {
+        "_id": "17",
+        "title": "Fitness Tracker",
+        "category": "Electronics",
+        "Price": 49.99,
+        "image": "https://i.ibb.co/NZFLNPk/young-fitness-woman-looking-screen-smart-bracelet-isolated-white-background-175682-46164.jpg"
+    },
+    {
+        "_id": "18",
+        "title": "Waterproof Action Camera",
+        "category": "Electronics",
+        "Price": 99.99,
+        "image": "https://i.ibb.co/sqKyMch/top-view-photo-camera-indoors-still-life-23-2150630663.jpg"
+    },
+    {
+        "_id": "19",
+        "title": "Stainless Steel Cookware Set",
+        "category": "Home & Kitchen",
+        "Price": 129.99,
+        "image": "https://i.ibb.co/4fmcPTQ/high-angle-view-electric-lamp-against-wall-1048944-17704625.jpg"
+    },
+    {
+        "_id": "20",
+        "title": "Blender with Travel Bottle",
+        "category": "Home & Kitchen",
+        "Price": 29.99,
+        "image": "https://i.ibb.co/mzb1Yxf/concept-cooking-tasty-food-with-blender-isolated-white-background-185193-86114.jpg"
+    },
+    {
+        "_id": "21",
+        "title": "Professional DSLR Camera",
+        "category": "Electronics",
+        "Price": 899.99,
+        "image": "https://i.ibb.co/J5JrK5M/close-up-camera-against-white-background-1048944-30865475-1.jpg"
+    },
+    {
+        "_id": "22",
+        "title": "Portable Bluetooth Speaker",
+        "category": "Electronics",
+        "Price": 45.99,
+        "image": "https://i.ibb.co/fQPpN7r/hearing-aids-case-flat-lay-23-2149705944.jpg"
+    },
+    {
+        "_id": "23",
+        "title": "Adjustable Dumbbells",
+        "category": "Outdoors",
+        "Price": 79.99,
+        "image": "https://i.ibb.co/Pmc5JGG/ball-tripod-head-isolated-white-background-41158-19988.jpg"
+    },
+  
+    {
+        "_id": "25",
+        "title": "Robot Vacuum Cleaner",
+        "category": "Home & Kitchen",
+        "Price": 199.99,
+        "image": "https://i.ibb.co/wCW9d3r/still-life-robotic-vacuum-23-2151108332.jpg"
+    },
+    {
+        "_id": "26",
+        "title": "Smart Watch",
+        "category": "Electronics",
+        "Price": 149.99,
+        "image": "https://i.ibb.co/6rhq2TR/white-smart-watch-white-background-662214-263.jpg"
+    },
+    {
+        "_id": "27",
+        "title": "Electric Guitar",
+        "category": "Musical Instruments",
+        "Price": 299.99,
+        "image": "https://example.com/images/electric-guitar.jpg"
+    },
+    {
+        "_id": "28",
+        "title": "Foam Roller for Muscles",
+        "category": "Outdoors",
+        "Price": 18.99,
+        "image": "https://i.ibb.co/vH8bRtj/ball-tripod-head-isolated-white-background-41158-19988.jpg"
+    },
+    {
+        "_id": "29",
+        "title": "Cordless Drill Set",
+        "category": "Home & Kitchen",
+        "Price": 79.99,
+        "image": "https://i.ibb.co/4PdrCSm/nice-modern-red-desk-lamp-739536-6551.jpg"
+    },
+    {
+        "_id": "30",
+        "title": "LED Desk Lamp",
+        "category": "Home & Kitchen",
+        "Price": 22.99,
+        "image": "https://i.ibb.co/jgQhdbR/close-up-electric-lamp-table-against-white-background-1048944-23586028.jpg"
+    },
+    {
+        "_id": "31",
+        "title": "Apple iPhone 14",
+        "category": "Electronics",
+        "Price": 999.99,
+        "image": "https://i.ibb.co/9wdD0FW/iphone-15-image-895118-3577.jpg"
+    },
+    {
+        "_id": "32",
+        "title": "Samsung Galaxy S21",
+        "category": "Electronics",
+        "Price": 849.99,
+        "image": "https://i.ibb.co/gt0dkvb/smartphone-mock-up-isolated-1310-1525.jpg"
+    },
+    {
+        "_id": "33",
+        "title": "Sony WH-1000XM4",
+        "category": "Electronics",
+        "Price": 349.99,
+        "image": "https://i.ibb.co/nsBKYKR/smoke-detector-isolated-white-background-1031240-25546.jpg"
+    },
+    {
+        "_id": "34",
+        "title": "T-shirt",
+        "category": "Fashion",
+        "Price": 149.99,
+        "image": "https://i.ibb.co/n63RmB1/isolated-white-t-shirt-mockup-design-881308-2067.jpg"
+    },
+    {
+        "_id": "35",
+        "title": "Nike Air Max 270",
+        "category": "Fashion",
+        "Price": 149.99,
+        "image": "https://i.ibb.co/wdnT3Dc/new-pair-white-sneakers-isolated-white-93675-135053.jpg"
+    },
+    {
+        "_id": "36",
+        "title": "Nike Air Max 270",
+        "category": "Fashion",
+        "Price": 149.99,
+        "image": "https://i.ibb.co/C71CwbG/new-pair-white-sneakers-isolated-white-93675-133037.jpg"
+    },
+    {
+        "_id": "37",
+        "title": "Adidas Ultraboost",
+        "category": "Fashion",
+        "Price": 180.00,
+        "image": "https://example.com/images/adidas_ultraboost.jpg"
+    },
+    {
+        "_id": "38",
+        "title": "Levi's 501 Original",
+        "category": "Fashion",
+        "Price": 89.99,
+        "image": "https://i.ibb.co/jy3zPvm/blue-jeans-isolated-white-background-392895-174786.jpg"
+    },
+    {
+        "_id": "39",
+        "title": "The North Face Jacket",
+        "category": "Fashion",
+        "Price": 249.99,
+        "image": "https://i.ibb.co/n6W2xbL/showcasing-professional-clothing-with-style-sophistication-isolation-clean-background-1020495-272815.jpg"
+    },
+    {
+        "_id": "40",
+        "title": "Ray-Ban Wayfarer",
+        "category": "Fashion",
+        "Price": 154.99,
+        "image": "https://i.ibb.co/n3dWRcb/sunglasses-1203-7883.jpg"
+    },
+    {
+        "_id": "41",
+        "title": "Instant Pot Duo",
+        "category": "Home & Kitchen",
+        "Price": 89.99,
+        "image": "https://i.ibb.co/DMGsb6k/blender-juice-machine-1203-7838.jpg"
+    },
+    {
+        "_id": "42",
+        "title": "Dyson V11 Vacuum",
+        "category": "Home & Kitchen",
+        "Price": 599.99,
+        "image": "https://i.ibb.co/5YZ3LfN/emerald-abyss-study-detail-white-png-transparent-background-94628-70047.jpg"
+    },
+    {
+        "_id": "43",
+        "title": "iRobot Roomba 960",
+        "category": "Home & Kitchen",
+        "Price": 399.99,
+        "image": "https://i.ibb.co/nsBKYKR/smoke-detector-isolated-white-background-1031240-25546.jpg"
+    },
+    {
+        "_id": "44",
+        "title": "KitchenAid Mixer",
+        "category": "Home & Kitchen",
+        "Price": 499.99,
+        "image": "https://i.ibb.co/qpPMX7Z/vr-virtual-reality-headset-650503-1231.jpg"
+    },
+    {
+        "_id": "45",
+        "title": "Nespresso Coffee Maker",
+        "category": "Home & Kitchen",
+        "Price": 199.99,
+        "image": "https://i.ibb.co/m8Bwbjf/freshly-ground-coffee-prepare-best-coffee-1112-435.jpg"
+    },
+    {
+        "_id": "46",
+        "title": "Sony PlayStation 5",
+        "category": "Gaming",
+        "Price": 499.99,
+        "image": "https://i.ibb.co/1fbJ8nN/realistic-set-various-models-controllers-video-game-console-white-background-isolated-vector-illustr.jpg"
+    },
+    {
+        "_id": "47",
+        "title": "Xbox Series X",
+        "category": "Gaming",
+        "Price": 499.99,
+        "image": "https://example.com/images/xbox_series_x.jpg"
+    },
+    {
+        "_id": "48",
+        "title": "Nintendo Switch",
+        "category": "Gaming",
+        "Price": 299.99,
+        "image": "https://example.com/images/nintendo_switch.jpg"
+    },
+    {
+        "_id": "49",
+        "title": "Logitech G502 Mouse",
+        "category": "Gaming",
+        "Price": 49.99,
+        "image": "https://example.com/images/logitech_g502.jpg"
+    },
+    {
+        "_id": "50",
+        "title": "Razer BlackWidow Keyboard",
+        "category": "Gaming",
+        "Price": 129.99,
+        "image": "https://example.com/images/razer_blackwidow.jpg"
+    },
+    {
+        "_id": "51",
+        "title": "Patagonia Backpack",
+        "category": "Outdoors",
+        "Price": 129.99,
+        "image": "https://i.ibb.co/djT8Xhm/baggage-prepared-travelling-23-2150739204.jpg"
+    },
+    {
+        "_id": "52",
+        "title": "Columbia Hiking Boots",
+        "category": "Outdoors",
+        "Price": 99.99,
+        "image": "https://i.ibb.co/2NVn6tf/militar-boots-mockup-1310-776.jpg"
+    },
+    {
+        "_id": "53",
+        "title": "Garmin Forerunner 945",
+        "category": "Outdoors",
+        "Price": 599.99,
+        "image": "https://i.ibb.co/gJ6QSZm/3d-gym-equipment-23-2151114174.jpg"
+    },
+    {
+        "_id": "54",
+        "title": "GoPro HERO9",
+        "category": "Outdoors",
+        "Price": 399.99,
+        "image": "https://i.ibb.co/CwbzDRH/steering-wheel-switches-windshield-wipers-turn-signals-with-steering-angle-sensor-disassembled-white.jpg"
+    },
+    {
+        "_id": "55",
+        "title": "Yeti Tundra 65 Cooler",
+        "category": "Outdoors",
+        "Price": 349.99,
+        "image": "https://i.ibb.co/bXVd8qw/differents-views-caravan-1053-509.jpg"
+    },
+    {
+        "_id": "56",
+        "title": "TCL 55\" 4K TV",
+        "category": "Electronics",
+        "Price": 449.99,
+        "image": "https://i.ibb.co/5jsxXdD/modern-tv-screen-isolated-23-2151430360.jpg"
+    },
+    {
+        "_id": "57",
+        "title": "Bose SoundLink Speaker",
+        "category": "Electronics",
+        "Price": 129.99,
+        "image": "https://i.ibb.co/tXFPWyZ/black-bluetooth-speaker-isolated-whitebackground-875825-69716.jpg"
+    },
+    {
+        "_id": "58",
+        "title": "Fitbit Charge 5",
+        "category": "Electronics",
+        "Price": 179.99,
+        "image": "https://i.ibb.co/pQm517C/generic-blank-black-smart-fit-band-smartwatch-object-isolated-white-cut-out-smart-band-watch-wearabl.jpg"
+    },
+    {
+        "_id": "59",
+        "title": "Anker PowerCore 10000",
+        "category": "Electronics",
+        "Price": 49.99,
+        "image": "https://example.com/images/anker_powercore10000.jpg"
+    },
+    {
+        "_id": "60",
+        "title": "JBL Flip 5",
+        "category": "Electronics",
+        "Price": 119.99,
+        "image": "https://example.com/images/jbl_flip5.jpg"
+    }
+
+
+    
+]
