@@ -79,11 +79,11 @@ const ProductCard = ({ item }) => {
     }
     return (
         <div>
-            <div className="card w-96 rounded-none border border-indigo-600">
+            <div className="card w-72  rounded-none border border-gray-300">
                     <figure className="">
-                        <img src={image} alt="Shoes" className=" w-[400px] h-[200px]" />
+                        <img src={image} alt="Shoes" className=" w-[400px]  mt-34" />
                     </figure>
-                    <div className="card-body items-center text-center">
+                    <div className="card-body items-center text-center mt-2">
                         <h2 className="card-title">{title}</h2>
                         <p>${Price}</p>
                         <div className="card-actions">

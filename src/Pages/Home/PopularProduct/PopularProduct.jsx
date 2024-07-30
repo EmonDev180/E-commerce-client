@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+
 import SectionTitle from "../../../Components/SectionTitle/SectionTitle";
 import PopularProductCard from "./PopularProductCard";
 import useProduct from "../../../hooks/useProduct";
@@ -29,7 +29,7 @@ const PopularProduct = () => {
 
             </SectionTitle>
 
-            <div className="grid grid-cols-3 gap-10">
+            <div className="grid lg:grid-cols-3 md:grid-cols-2  sm-grid-cols-1 ml-12  gap-10">
                 {
                     popular?.map(item =><PopularProductCard key={item._id} item={item}></PopularProductCard> )
                 }

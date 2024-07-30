@@ -9,11 +9,12 @@ import { Link } from "react-router-dom";
 
 const ManageProduct = () => {
 
-    const [product] = useProduct()
+    const [product,refetch] = useProduct()
 
     const axiosPublic = useAxiosPublic()
 
     const handleDelete = (item) => {
+       
         Swal.fire({
             title: "Are you sure?",
             text: "You won't be able to revert this!",
@@ -27,14 +28,11 @@ const ManageProduct = () => {
 
                 const res = await axiosPublic.delete(`/products/${item._id}`)
 
-                console.log(res.data)
+                console.log(res.data);
+                refetch()
 
 
-                //   Swal.fire({
-                //     title: "Deleted!",
-                //     text: "Your file has been deleted.",
-                //     icon: "success"
-                //   });
+            
             }
         });
 
@@ -64,7 +62,7 @@ const ManageProduct = () => {
                         <tbody>
 
                             {
-                                product?.map((item, index) => <tr key={item._id}>
+                                product?.map((item, index) => <tr className="" key={item._id}>
                                     <td>
                                         {index + 1}
                                     </td>

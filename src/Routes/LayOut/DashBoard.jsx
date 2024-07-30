@@ -11,8 +11,8 @@ const DashBoard = () => {
     const [isAdmin] = useAdmin();
 
     return (
-        <div className="flex ">
-            <div className="w-64 min-h-screen bg-orange-500">
+        <div className="flex flex-col md:flex-row">
+            <div className="w-full md:w-64 min-h-screen bg-orange-500">
                 <ul className="menu p-4 text-xl gap-4">
 
                     {
@@ -40,13 +40,7 @@ const DashBoard = () => {
 
                                     Manage Product</NavLink>
                             </li>
-                            <li>
-
-                                <NavLink to='/dashboard/manageBooking'>
-                                    <FaAd></FaAd>
-
-                                    Manage booking </NavLink>
-                            </li>
+                          
                             <li>
 
                                 <NavLink to='/dashboard/allUsers'>
@@ -70,10 +64,10 @@ const DashBoard = () => {
                                 </li>
                                 <li>
 
-                                    <NavLink to='/dashboard/reservation'>
+                                    <NavLink to='/dashboard/paymentHistory'>
                                         <FaCalendar></FaCalendar>
 
-                                        Reservation </NavLink>
+                                      paymentHistory </NavLink>
                                 </li>
 
                                 <li>

@@ -9,6 +9,8 @@ import Swal from 'sweetalert2';
 
 
 
+
+
 const image_hosting_key = import.meta.env.VITE_IMAGE_HOSTING_KEY
 const image_hosting_api = `https://api.imgbb.com/1/upload?key=${image_hosting_key}`;
 
@@ -37,10 +39,10 @@ const AddProduct = () => {
 
             const ProductItems = {
 
-                name:data.name,
+                title:data.name,
                 category:data.category,
-                price:parseFloat(data.price),
-                recipe:data.recipe,
+                Price:parseFloat(data.Price),
+                recipe:data.product,
                 image:res.data.data.display_url
 
             }
@@ -109,6 +111,8 @@ const AddProduct = () => {
                                 <option value="Electronics">Electronics</option>
                                 <option value="Furniture">Furniture</option>
                                 <option value="Outdoors">Outdoors</option>
+                                <option value="HandBags">HandBags</option>
+                                <option value="tshart">T-shart</option>
 
                             </select>
                         </label>
@@ -126,7 +130,7 @@ const AddProduct = () => {
                             </div>
                             <input type="number"
                                 placeholder="Price"
-                                {...register('price')}
+                                {...register('Price')}
                                 className="input input-bordered w-full " />
 
                         </label>
@@ -136,7 +140,7 @@ const AddProduct = () => {
                         
                     </div>
 
-                          {/* recipee details   */}
+                          {/* product  details   */}
 
 
                     <label className="form-control">
@@ -144,7 +148,7 @@ const AddProduct = () => {
                                 <span className="label-text">Product Details</span>
                               
                             </div>
-                            <textarea {...register('recipe')} className="textarea textarea-bordered h-24" placeholder="Bio"></textarea>
+                            <textarea {...register('product')} className="textarea textarea-bordered h-24" placeholder="Bio"></textarea>
                             <div className="label">
                                 <span className="label-text-alt">Your bio</span>
                                 <span className="label-text-alt">Alt label</span>
