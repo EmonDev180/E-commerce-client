@@ -20,9 +20,7 @@ const BlogCard = ({ blog }) => {
                     <h2>{author}</h2>
                     <h2>{date}</h2>
                 </div>
-                <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Read More</button>
-                </div>
+                
             </div>
         </div>
 

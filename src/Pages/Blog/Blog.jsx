@@ -4,9 +4,6 @@ import Cover from "../../Shared/Cover/Cover";
 import banner5 from '../../assets/images/category/Banner5.jpg'
 import BlogCard from "./BlogCard";
 
-
-
-
 const Blog = () => {
 
     const [blogs, setBlogs] = useState([])
@@ -21,21 +18,11 @@ const Blog = () => {
 
     }, [])
 
-
-
-
-
-
-
-
-
-
-
     return (
         <div>
 
             <div>
-                <Cover img={banner5} title={'Blog'}></Cover>
+                <Cover img={banner5}></Cover>
 
                 <div className="text-center mt-8">
                     <h2 className="text-5xl font-bold text-orange-500">BLOG SECTION</h2>

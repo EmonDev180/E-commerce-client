@@ -5,18 +5,9 @@ import banner5 from '../../assets/images/category/Banner5.jpg'
 
 
 const About = () => {
-
-
-
-
-
-
-
-
-
     return (
         <div>
-            <Cover img={banner5} title={'about '}></Cover>
+            <Cover img={banner5} ></Cover>
 
             <div>
                 <div className="hero min-h-screen bg-base-200">
